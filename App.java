@@ -12,8 +12,15 @@ public class App {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("======================================");
-        System.out.println("Início da pesquisa");
+        System.out.println("=====================================");
+        System.out.println("Início da pesquisa!");
+
+
+
+
+
+
+        
         while (true) {
             do {
                 System.out.println("======================================");
